@@ -1,7 +1,10 @@
 h1 {
     background-color:rgb(148, 226, 196);
-     }
+}
 h2 {
     color:rgb(243, 91, 197);
     font-family: "MS Mincho";
-    }
+}
+span {
+    color: rgba(224, 39, 39, 0);
+}
